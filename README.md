@@ -25,3 +25,5 @@ My first GitHub repository for Introduction to Computing
 
 # My Favorite Technology
 My favorite technology is a cellphone because it is easy to carry and convenient to use anywhere. I chose it because it helps me communicate with others, access information, and do different tasks easily.
+
+**Reflection:** Git helps me manage changes to my work by keeping track of the changes I make to my files and code. It also allows me to go back to previous versions if I make mistakes.
